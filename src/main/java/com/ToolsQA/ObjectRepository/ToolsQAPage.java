@@ -7,6 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class ToolsQAPage {
 
+//comment
 	@FindBy(xpath="//h5[.='Elements']/../..//div[@class='avatar mx-auto white']")
 	private WebElement  elementsImg;
 	
