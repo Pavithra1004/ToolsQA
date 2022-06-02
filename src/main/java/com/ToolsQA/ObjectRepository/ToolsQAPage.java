@@ -6,8 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 //changes P1
 public class ToolsQAPage {
-
-//comment
+//comment from user
 	@FindBy(xpath="//h5[.='Elements']/../..//div[@class='avatar mx-auto white']")
 	private WebElement  elementsImg;
 	
